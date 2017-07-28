@@ -1,0 +1,5 @@
+#!/bin/bash
+#!/usr/bin/env ruby
+
+ruby /Users/ricardokreyhsig/Desktop/TelexAutoPost/post.rb
+sleep 5s 
